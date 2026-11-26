@@ -1,0 +1,45 @@
+###1.
+
+Git es un repositorio que se utiliza para el control de versiones y se utiliza para guardar los cambios en el código de un proyecto sin perder los anteriores.
+ 
+###2.
+git add : prepara los archivos para ser modificados o agregados en el repositorio.
+git commit: guarda los archivos en el historial de cambios.
+git push: publica los archivos en el repositorio remoto
+Orden correcto: 1)git add archivoNuevo.js, 2)git commit -m "se sube el archivo archivoNuevo.js" y 3) git push archivoNuevo,js 
+
+###3.
+
+git init
+
+###4.
+git add index.html
+git commit -m "actualiza la página principal"
+
+###5.
+Repositorio local: es una carpeta en mi computadora para guardar mis proyectos
+Repositorio remoto: es una carpeta en un servidor remoto por fuera de mi computadora para guardar proyectos, por ejemplo: gitHub y fileZilla
+
+###6.
+git switch -c login
+
+###7.
+Me permite guardar el proyecto de a poco sin descartar los cambios anteriores.
+
+###8.
+git pull actualiza la descarga de archivos de un repositorio ajeno en mi repositorio
+
+###9.
+git switch main
+git merge registro-usuarios
+
+###10.
+a) git status nos da el estado actual de nuestro repositorio
+b) git add .
+
+c) 
+1) git add . 
+2) git commit -m "corrige errores del proyecto" 
+3) git push
+
+
